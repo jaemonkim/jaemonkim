@@ -1,6 +1,6 @@
 ### Hi there, 
 
-I am currently working as amatuar DATA Engineer using python and SQL.
+I am currently working as amatuar DATA Engineer Using python and SQL.
 When I was still a university student,I firstly started Technical Support from 2021 by managing Relational Database.
 Now, My interest lies in how to implement a reliable MLOPS. 
 
