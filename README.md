@@ -1,14 +1,29 @@
-### Hi there, 
+# Hi there, I'm Jaymon 👋
 
-I am currently working as amatuar DATA Engineer Using python and SQL.
-When I was still a university student,I firstly started Technical Support from 2021 by managing Relational Database.
-Now, My interest lies in how to implement a reliable MLOPS. 
+### 🛠️ Hardware-Software intergrated Solution Architect
+I specialize in bridging embedded hardware, computer vision, and AI-driven imaging with scalable software solutions. With a strong engineering background and trilingual capabilities (**English, Korean, Chinese**), I lead technical solution design, code reviews, and cross-border engineering support.
 
-There are historical projects that I have been participated:
-- 2024 Facial Recognition Security Software Performance Evaluation
-- 2023 Kaggle AI model Runtime Prediction
-- 2022 ERP and CRM data support with schema design and constraint
-- 2021 E-commerce Agricultural product trace system Prototype UML development 
+---
 
-If it is possible please feel free to contact me and discuss about some real example
-Thanks for your notice.
+### 🔬 Core Expertise & Technical Evolution
+* **Medical & Industrial Imaging:** Sensor configuration & system integration for **DR / CBCT / CT** X-ray detectors, including CNN-based noise reduction algorithms.
+* **Computer Vision & Vision AI:** Performance testing and deployment of camera-level facial recognition systems.
+* **IoT & Embedded Systems:** RFID tag integration and low-level sensor communication protocols.
+* **Tech Stack:** `Python` | `C++` | `SQL` | `OpenCV` | `ImageJ` | `Git`
+
+---
+
+### 📂 Featured Open-Source / Portfolio Projects
+* 🚀 **[2024] Facial Recognition Security Software Performance Evaluation**  
+  *Benchmarking camera-level vision AI performance and accuracy metrics under real-world conditions.*
+* 🏎️ **[2023] Kaggle AI Model Runtime Prediction**  
+  *Machine learning models engineered to forecast inference and execution time for AI algorithms.*
+* 📊 **[2022] ERP & CRM Data Architecture & Schema Design**  
+  *Relational database schema design, constraint mapping, and data support optimization.*
+* 🌾 **[2021] E-Commerce Agricultural Product Traceability Prototype**  
+  *System architecture modeling and UML diagram development for supply chain tracing.*
+
+---
+
+### 💬 Let's Connect
+I am always open to discussing technical architecture, medical imaging technology, or potential engineering collaborations!
